@@ -1,10 +1,11 @@
 body {
-    background-image: url("");
+    background-image: url(../img/bread-variety.jpg);
+    background-size: cover;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 20px;
 }
 .menu-container {
-    background-color: rgba(221, 170, 107, 0.904);
+    background-color: rgba(221, 170, 107, 98%);
     width: 80%;
     margin: 2em auto;
     padding: 2rem;
