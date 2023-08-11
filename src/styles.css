@@ -1,0 +1,60 @@
+body {
+    background-image: url("");
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+.menu-container {
+    background-color: rgba(221, 170, 107, 0.904);
+    width: 80%;
+    margin: 2em auto;
+    padding: 2rem;
+    max-width: 500px;
+}
+h1 {
+    font-size: 40px;
+}
+h2 {
+    font-size: 30px;
+}
+.description {
+    font-style: italic;
+}
+h1, h2 {
+    font-family: Impact, serif;
+}
+h1, h2, p {
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 50px;
+}
+.item p {
+    display: inline-block;
+    font-size: 18px;
+    margin: 5px auto;
+}
+
+.bakery-option, .cookies-option, .loaves-option, .bars-option {
+    text-align: left;
+    width: 75%;
+}
+.price {
+    text-align: right;
+    width: 24%;
+}
+hr{
+    background-color: rgba(0, 0, 0,90%);
+    border-color: rgba(0, 0, 0, 70%);
+    height: 2px;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(55, 5, 5);
+}
+a:visited{
+    color: rgba(0, 0, 0,90%);
+}
